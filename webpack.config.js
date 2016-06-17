@@ -31,6 +31,7 @@ module.exports = {
       WeatherForm: path.resolve(process.cwd(), 'app/components/WeatherForm.jsx'),
       WeatherMessage: path.resolve(process.cwd(), 'app/components/WeatherMessage.jsx'),
       OpenWeatherMap: path.resolve(process.cwd(), 'app/api/OpenWeatherMap.jsx'),
+      ErrorModal: path.resolve(process.cwd(), 'app/components/ErrorModal.jsx'),
     },
     extensions: ['', '.js', '.jsx']
   },
